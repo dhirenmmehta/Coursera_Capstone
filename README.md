@@ -1,5 +1,3 @@
-# Coursera_Capstone
-Capstone Project on predict the Car Accident Severity Analysis - The severity of an accident
 # Coursera_Applied-Data-Science-Capstone
 This project will be mainly used for the Applied Data Science Capstone, which is the icing on the cake of the DataSc Professional certificate by IBM.
 
